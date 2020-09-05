@@ -41,11 +41,11 @@ The goals / steps of this project are the following:
 
 - The implementation of 2D histogram filter can be found in
 
-  * [Python](./Python Version/Histogram_Filter_2D.ipynb) 
+  * [Python](https://github.com/ianleongg/Sensing-Movement-Histogram-Filter-2D/blob/master/Python%20Version/Histogram_Filter_2D.ipynb) 
 
-  * [C++](./C++ Version) 
+  * [C++](https://github.com/ianleongg/Sensing-Movement-Histogram-Filter-2D/tree/master/C%2B%2B%20Version) 
 
-  * [Optimized C++](./Optimized C++ Version/main.cpp) 
+  * [Optimized C++](https://github.com/ianleongg/Sensing-Movement-Histogram-Filter-2D/blob/master/Optimized%20C%2B%2B%20Version/main.cpp) 
 
 
 The below image shows the visualization of the sense function in .ipynb: 
