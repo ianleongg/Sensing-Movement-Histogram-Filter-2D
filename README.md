@@ -94,9 +94,9 @@ The below image shows the visualization of the sense function in .ipynb:
   - 4. Generate a hypothesis for the cause of the bug.
   - 5. Try a solution. If it fixes the bug, great! If not, go back to step 4.
 
-  * Reproduce the bug
+* Reproduce the bug
     
-   - rectangular environments seem to be causing the bug as seen
+  - rectangular environments seem to be causing the bug as seen
 
  ![alt text][image4]
 
